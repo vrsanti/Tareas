@@ -1,0 +1,60 @@
+Sujeto: Estudiante
+
+- Enunciados simples que considere verdaderos sobre el sujeto:
+
+1. Tiene una mochila
+2. Estudia matemáticas
+3. Utiliza uniforme
+4. Llega en bus al colegio
+5. Utiliza un cuaderno y un lápiz
+
+- Enunciados simples que considere falsos sobre el sujeto:
+
+1. Estudia en un la universidad
+2. Llega en bicicleta al colegio
+3. Usa una laptop para tomar notas de clase
+4. Llega en pashama y tennis a clases
+5. Estudia reposteria en el colegio
+
+
+- Enunciados nuevos, indique que proposiciones usó y el valor de verdad resultante:
+
+1. No tiene mochila
+Proposiciones usadas: negación
+Valor resultante: falso
+
+2. Tiene una mochila y Llega en bus al colegio
+Proposiciones usadas: conjunción
+Valor resultante: verdadero
+
+3. Estudia matemáticas y Llega en bicicleta al colegio
+Proposiciones usadas: conjunción
+Valor resultante: falso
+
+4. Utiliza uniforme o Usa una laptop para tomar notas de clase
+Proposiciones usadas: disyunción débil
+Valor resultante: verdadero
+
+5. Llega en bicicleta al colegio o Estudia en un la universidad
+Proposiciones usadas: disyunción débil
+Valor resultante: falso
+
+6. O Estudia reposteria en el colegio o Estudia en un la universidad
+Proposiciones usadas: disyunción fuerte
+Valor resultante: falso
+
+7. O Estudia matemáticas o Llega en bicicleta al colegio
+Proposiciones usadas: disyunción fuerte
+Valor resultante: verdadero
+
+8. Si Llega en bus al colegio entonces Utiliza uniforme
+Proposiciones usadas: implicación
+Valor resultante: verdadero
+
+9. Si Utiliza un cuaderno y un lápiz entonces Estudia reposteria en el colegio
+Proposiciones usadas: implicación
+Valor resultante: falso
+
+10. Tiene una mochila Si y sólo si Estudia matemáticas
+Proposiciones usadas: equivalencia
+Valor resultante: verdadero
